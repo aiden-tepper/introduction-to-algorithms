@@ -1,0 +1,1 @@
+This project incorporates a simple divide and conquer algorithm to solve the given problem. Algorithm specifications can be found in the pdf located in this folder.

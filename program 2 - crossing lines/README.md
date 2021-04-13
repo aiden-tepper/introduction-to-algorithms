@@ -1,0 +1,1 @@
+This project incorporates a divide and conquer algorithm to find the number of intersections in a series of lines connecting two parallel lines given the location of an arbitrary number of point pairs. Algorithm specifications can be found in the pdf located in this folder.

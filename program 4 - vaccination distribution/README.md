@@ -1,0 +1,1 @@
+This project incorporates a number of weighted undirected graph traversal algorithms and implements a version of Prim's minimum spanning tree greedy algorithm (exploiting the cut and cycle properties of MSTs) in order to solve this problem. Algorithm specifications can be found in the pdf located in this folder.

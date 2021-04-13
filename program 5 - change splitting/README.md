@@ -1,0 +1,1 @@
+This project incorporates a dynamic programming techniques to solve this knapsack-type algorithm problem having to do with splitting an arbitrary number of coins into two equal sized piles. Algorithm specifications can be found in the pdf located in this folder.
