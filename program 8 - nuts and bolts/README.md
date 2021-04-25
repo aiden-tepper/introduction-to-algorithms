@@ -1,0 +1,1 @@
+This project incorporates the Ford-Fulkerson algorithm and a simple BFS over a bipartite graph to solve a maximum bipartite matching problem that can be reduced to max network flow. Algorithm specifications can be found in the pdf located in this folder.

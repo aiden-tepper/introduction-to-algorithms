@@ -1,0 +1,1 @@
+This project incorporates a greedy algorithm to attempt to solve the NP-complete problem of determing whether a proper k-coloring of a graph can be found. Algorithm specifications can be found in the pdf located in this folder.

@@ -1,0 +1,1 @@
+This project incorporates concepts relating to probability/randomness to determine expected values of a given random algorithm over a binary tree. Algorithm specifications can be found in the pdf located in this folder.

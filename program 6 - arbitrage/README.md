@@ -1,0 +1,1 @@
+This project incorporates the Bellman-Ford algorithm to find the minimum transaction cost to eliminate arbitrage in a foreign exchange system. Algorithm specifications can be found in the pdf located in this folder.
